@@ -26,3 +26,11 @@ header {
     margin: 10;
     color: #333;
 }
+
+.main-paragraph {
+    width: 60%;
+}
+
+.license-paragraph {
+    width: 60%;
+}
