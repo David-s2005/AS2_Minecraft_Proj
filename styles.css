@@ -1,0 +1,28 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    position: relative;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+.header-row {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.site-logo {
+    width: 500px;
+    height: auto;
+}
+
+.return_hyp {
+    font-size: 22px;
+    margin: 10;
+    color: #333;
+}
